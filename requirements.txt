@@ -5,7 +5,6 @@ numpy
 pillow
 scikit-learn
 matplotlib
-re
 wordcloud
 seaborn
 
