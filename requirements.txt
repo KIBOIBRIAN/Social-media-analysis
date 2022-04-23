@@ -1,0 +1,11 @@
+streamlit
+pandas
+base58
+numpy
+pillow
+scikit-learn
+matplotlib
+re
+wordcloud
+seaborn
+
